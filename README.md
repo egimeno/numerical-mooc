@@ -1,6 +1,6 @@
 #Practical Numerical Methods with Python
 
-Every time I think of you again...
+Every time I think of you again... Ah ha!
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
 - [Lorena A. Barba](http://lorenabarba.com), George Washington University, USA
